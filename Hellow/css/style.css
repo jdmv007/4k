@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Song+Myung');
+#sec-banner{
+	padding-bottom: 0px;background-color: rgba(0,0,0,1.00);
+}
+
+	
+#sec-slogan{
+	padding-bottom: 5px;
+}
+
+#sec-slogan h3{
+	font-weight: bold;
+	font-size: 55px;
+	text-align: center;
+	}
+
+#sec-menu{
+	padding-bottom: 10px;
+	
+}
+
+#sec-menu a{
+	color:#fff;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#sec-menu article{
+	text-align: center;	
+	background-color: #5BC0DE;	
+	border: 2px solid #fff;
+	max-width: 300px;
+    width: 80%;	
+    
+}
+
+#footer{
+	text-align: center;	
+	background-color: #192537;
+	color: #fff;
+	padding: 15px 0;
+	margin-top: 30px;
+}
+
+#sec-info{
+	
+}
+
+#sec-foto{
+	background: url(https://i.ytimg.com/vi/LR0d9SsHI84/maxresdefault.jpg);
+	color: white;
+	
+}
+
+#sec-info h4{
+	color: rgba(127,105,29,1.00);
+}
+
+#sec-info h4{
+	font-size: 28px;	
+}
+
+
+#sec-visuales h4{
+	text-align: center;
+	font-weight: bold;
+	color:#192537;
+}
+
+#sec-visuales{
+	background-color:#DDDDDD;
+}
+
+#sec-visuales2{
+	background-color:#DDDDDD;
+}
+
+#sec-visuales2 h4{
+	text-align: center;
+	font-weight: bold;
+	color:#192537;
+}
+
