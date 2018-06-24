@@ -3,7 +3,9 @@
 	padding-bottom: 0px;background-color: rgba(0,0,0,1.00);
 }
 
-	
+header{
+	padding-top: 20px;
+}	
 #sec-slogan{
 	padding-bottom: 5px;
 }
@@ -12,19 +14,26 @@
 	font-weight: bold;
 	font-size: 55px;
 	text-align: center;
+	padding-bottom: 10px;
 	}
-
+#sec-registro h2{
+	text-align:center;
+	padding-bottom: 10px;
+}
 #sec-menu{
 	padding-bottom: 10px;
 	
 }
 
+#sec-foto{
+	background-color: #fff;
+}
 #sec-menu a{
 	color:#fff;
 	font-weight: bold;
 	font-size: 16px;
 }
-
+ 
 #sec-menu article{
 	text-align: center;	
 	background-color: #5BC0DE;	
@@ -34,33 +43,41 @@
     
 }
 
+#submit{
+	text-align:center;
+	align-content: center;
+	align-items: center;
+}
 #footer{
 	text-align: center;	
 	background-color: #192537;
 	color: #fff;
 	padding: 15px 0;
 	margin-top: 30px;
+
 }
 
+#footer p{
+	text-align: center;
+}
 #sec-info{
-	
-}
-
-#sec-foto{
-	background: url(https://i.ytimg.com/vi/LR0d9SsHI84/maxresdefault.jpg);
-	color: white;
-	
+	backgroung-color: transparent;
 }
 
 #sec-info h4{
 	color: rgba(127,105,29,1.00);
+	text-align: center;
 }
 
-#sec-info h4{
+p{
+	text-align: justify;
+}
+
+#sec-foto h4{
+	color: rgba(127,105,29,1.00);
 	font-size: 28px;	
+	text-align: center;
 }
-
-
 #sec-visuales h4{
 	text-align: center;
 	font-weight: bold;
