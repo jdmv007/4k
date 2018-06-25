@@ -98,3 +98,27 @@ p{
 	color:#192537;
 }
 
+.maps{
+	padding: 100px 0px;
+}
+
+.info-fotos{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: rgba(31,31,31,0.75);
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	opacity: 0;
+	transition: all 0.4s ease-in-out;
+	z-index: 2;
+}
+
+
+
+
